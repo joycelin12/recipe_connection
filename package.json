@@ -1,0 +1,22 @@
+{
+  "name": "recipe_connection",
+  "version": "1.0.0",
+  "description": "An application to help people share food recipes and learn from one another. Through this application, user can subscribe, join online courses to practice cooking with the application's recipes and connect with other users.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joycelin12/recipe_connection.git"
+  },
+  "author": "Peiyu Joyce Lin Williamson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joycelin12/recipe_connection/issues"
+  },
+  "homepage": "https://github.com/joycelin12/recipe_connection#readme",
+  "dependencies": {
+    "cities": "^2.0.0"
+  }
+}
